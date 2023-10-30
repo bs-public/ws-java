@@ -23,9 +23,9 @@ class Singleton {
   }
 }
 
-public class SingletonTest {
+public class Main {
 
-  private static final Logger LOGGER = LoggerFactory.getLogger(SingletonTest.class);
+  private static final Logger LOGGER = LoggerFactory.getLogger(Main.class);
 
   public static void main(String[] args) {
     Singleton singleton = Singleton.getInstance();
