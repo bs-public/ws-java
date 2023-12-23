@@ -3,3 +3,4 @@
 - [logging-slf4j](https://github.com/bs-public/ws-java/tree/main/logging-slf4j)
 - [jcache-ehcache](https://github.com/bs-public/ws-java/tree/main/jcache-ehcache)
 - [JUnit5](https://github.com/bs-public/ws-java/tree/main/JUnit5)
+- [java-service-loader](https://github.com/bs-public/ws-java/tree/main/java-service-loader)
