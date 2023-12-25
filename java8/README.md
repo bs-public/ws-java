@@ -13,3 +13,9 @@ methods that support the commonest operations.
 
 **ZonedDate and Time:** Developers had to write additional logic to handle timezone logic with the old APIs, whereas with the new APIs, 
 handling of timezone can be done with Local and ZonedDate/Time APIs.
+
+
+### Default Method in interface
+An interface can have any number of default methods.
+
+Default Methods Can Cause The Diamond Problem? Inheriting from different interfaces multiple default methods with the same signature and different implementations is a problem. This will cause the famous "The Diamond Problem". The solution is simply to override the default method with its own implementation.
